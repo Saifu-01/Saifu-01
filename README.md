@@ -16,7 +16,7 @@ Business Intelligence Professional | Business Analyst | Data Analytics Specialis
 </h3>
 
 <p align="center">
-Transforming data into actionable business insights through Business Intelligence, Analytics, and Visualization.
+Transforming data into actionable business insights through Business Intelligence, Analytics and Visualization.
 </p>
 
 ---
@@ -25,11 +25,14 @@ Transforming data into actionable business insights through Business Intelligenc
 
 I am a Business Analyst with a strong passion for transforming complex data into<br>meaningful business insights that drive strategic decisions and measurable<br>outcomes. With a Master's degree in Business Analytics and professional<br>experience spanning financial services, logistics and supply chain operations,<br>I specialize in Business Intelligence, Data Analytics, Process Optimization, <br>Data Storytelling and Dashboard Development. I enjoy solving business challenges <br>by combining Analytical thinking with technical expertise in Power BI, SQL, Python, Tableau, <br>Altair AI RapidMiner Studio and Advanced Excel.
 
-🎯 Looking for opportunities as
+🎯 Looking for Opportunities as
 
 - Business Analyst
 - Data Analyst
-- BI Analyst
+- Data Engineer
+- Business Intelligence Analyst
+- Financial Analyst
+- SQL Developer
 - Power BI Developer
 
 ---
@@ -38,7 +41,8 @@ I am a Business Analyst with a strong passion for transforming complex data into
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/
+mohammad-saif-khan-">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -46,7 +50,7 @@ I am a Business Analyst with a strong passion for transforming complex data into
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:Saifukhan4778@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
