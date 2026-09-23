@@ -41,12 +41,11 @@ I am a Business Analyst with a strong passion for transforming complex data into
 
 <p align="left">
 
-<a href="www.linkedin.com/in/
-mohammad-saif-khan-">
+<a href="http://www.linkedin.com/in/mohammad-saif-khan-/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://github.com/Saifu-01">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
@@ -115,21 +114,7 @@ mohammad-saif-khan-">
 
 ---
 
-# 📈 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-# 📊 Contribution Graph
-
-[![Saif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6)
 
 ---
 
