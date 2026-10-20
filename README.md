@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saif Khan</h1>
 
 <h3 align="center">
-Business Intelligence Professional | Business Analyst | Data Analytics Specialist | Power BI Developer
+Business Analyst | Data Analytics Specialist | Power BI Developer
 🎓 Master's in Business Analytics
 
 📊 Passionate about Business Intelligence, Data Analytics and Decision Making
