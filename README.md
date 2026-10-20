@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Business Analyst | Data Analytics Specialist | Power BI Developer
-🎓 Master's in Business Analytics
+<h4 align="center"> 🎓 Master's in Business Analytics
 
 📊 Passionate about Business Intelligence, Data Analytics and Decision Making
 
